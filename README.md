@@ -1,2 +1,2 @@
 # SeaBubblesHawaii
-##Randy Keaton & Pete Bentz
+## Randy Keaton & Pete Bentz
